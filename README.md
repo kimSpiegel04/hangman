@@ -1,3 +1,3 @@
 # hangman
 Python hangman - terminal game
-![Hangman Demo](/hangman_demo.mp4)
+![Hangman Demo](https://youtu.be/xU9EtBqFvXE)
