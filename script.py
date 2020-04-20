@@ -26,7 +26,7 @@ def playGame():
 
     words = line.split(';')
     comp_word = random.choice(words)
-    print(comp_word)
+    # print(comp_word)
 
     letters = list(comp_word)
 
