@@ -1,3 +1,3 @@
 # hangman
 Python hangman - terminal game
-![](hangman_demo.mp4)
+![](/hangman_demo.mp4)
