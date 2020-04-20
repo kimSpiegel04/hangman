@@ -1,3 +1,4 @@
 # hangman
 Python hangman - terminal game
-![Hangman Demo](https://youtu.be/xU9EtBqFvXE)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xU9EtBqFvXE/0.jpg)]https://youtu.be/xU9EtBqFvXE)
